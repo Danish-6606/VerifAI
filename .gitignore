@@ -1,0 +1,11 @@
+venv/
+__pycache__/
+*.pyc
+dist/
+build/
+.flet/
+*.app
+*.exe
+*.pdf
+contracts/
+.DS_Store
