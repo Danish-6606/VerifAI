@@ -30,7 +30,9 @@ VerifAI is a cross-platform desktop application that uses a **locally-running LL
 | Ollama | latest | [ollama.com](https://ollama.com) |
 
 ---
+[VerifAi Final documentation.pdf](https://github.com/user-attachments/files/28755078/VerifAi.Final.documentation.pdf)
 
+---
 ## Quick Start
 
 ### 1. Clone the repo
